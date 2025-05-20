@@ -1,6 +1,6 @@
 # 🎬 Movie App
 
-A responsive React-based movie listing application that allows users to search for movies, view popular listings, and get detailed information using the OMDB API.
+A responsive React-based movie listing application that allows users to search for movies, view popular listings, and get detailed information using the TMDB API.
 
 ---
 
@@ -27,7 +27,7 @@ _Replace with your deployed site URL ( Netlify)._
 - React
 - React Router DOM
 - Tailwind CSS (or custom CSS)
-- OMDB API
+- TMDB API
 - Vite
 
 ---
